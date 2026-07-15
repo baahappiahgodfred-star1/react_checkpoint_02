@@ -137,6 +137,6 @@ And import Bootstrap in index.js:
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 👨‍💻 Author
-Sylvestre Ibombo Gakosso
+Godfred Appiah Baah
 Full Stack Developer — Java, Spring Boot, Angular, React, Laravel
 📍 Based in Senegal
